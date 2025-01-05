@@ -1,0 +1,16 @@
+D:\ShoppingMe\SHME\bin\Debug\net8.0-windows\SHME.exe
+D:\ShoppingMe\SHME\bin\Debug\net8.0-windows\SHME.deps.json
+D:\ShoppingMe\SHME\bin\Debug\net8.0-windows\SHME.runtimeconfig.json
+D:\ShoppingMe\SHME\bin\Debug\net8.0-windows\SHME.dll
+D:\ShoppingMe\SHME\bin\Debug\net8.0-windows\SHME.pdb
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\SHME.Form1.resources
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\SHME.csproj.GenerateResource.cache
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\SHME.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\SHME.AssemblyInfoInputs.cache
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\SHME.AssemblyInfo.cs
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\SHME.csproj.CoreCompileInputs.cache
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\SHME.dll
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\refint\SHME.dll
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\SHME.pdb
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\SHME.genruntimeconfig.cache
+D:\ShoppingMe\SHME\obj\Debug\net8.0-windows\ref\SHME.dll
